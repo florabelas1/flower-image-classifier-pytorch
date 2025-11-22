@@ -1,0 +1,4 @@
+Epoch 1/5 | Train loss: 2.757 | Validation loss: 0.715 | Validation accuracy: 0.800
+Best model saved to best_model.pth
+Epoch 2/5 | Train loss: 1.073 | Validation loss: 0.555 | Validation accuracy: 0.851
+Best model saved to best_model.pth
